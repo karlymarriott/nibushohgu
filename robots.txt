@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://luatideing.raaram.com/sitemap.xml
